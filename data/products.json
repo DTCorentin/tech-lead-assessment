@@ -1,0 +1,154 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Smartphone Galaxy X",
+      "price": 799.99,
+      "categories": ["Électronique", "High-Tech"]
+    },
+    {
+      "id": "P002",
+      "name": "Laptop Pro 15",
+      "price": 1299.00,
+      "categories": ["Électronique", "Informatique"]
+    },
+    {
+      "id": "P003",
+      "name": "Écouteurs Bluetooth",
+      "price": 89.99,
+      "categories": ["Électronique", "Audio"]
+    },
+    {
+      "id": "P004",
+      "name": "Café Bio 500g",
+      "price": 12.50,
+      "categories": ["Alimentaire"]
+    },
+    {
+      "id": "P005",
+      "name": "Chocolat Noir 70%",
+      "price": 4.99,
+      "categories": ["Alimentaire", "Gourmandise"]
+    },
+    {
+      "id": "P006",
+      "name": "Tablette 10 pouces",
+      "price": 349.00,
+      "categories": ["Électronique"]
+    },
+    {
+      "id": "P007",
+      "name": "Souris sans fil",
+      "price": 29.99,
+      "categories": ["Électronique", "Informatique", "Accessoires"]
+    },
+    {
+      "id": "P008",
+      "name": "Clavier mécanique RGB",
+      "price": 119.99,
+      "categories": ["Électronique", "Informatique"]
+    },
+    {
+      "id": "P009",
+      "name": "Huile d'olive premium",
+      "price": 18.90,
+      "categories": ["Alimentaire"]
+    },
+    {
+      "id": "P010",
+      "name": "Montre connectée Sport",
+      "price": 249.00,
+      "categories": ["Électronique", "Sport"]
+    },
+    {
+      "id": "P011",
+      "name": "Pack 6 bouteilles de vin",
+      "price": 89.99,
+      "categories": ["Alimentaire", "Boissons"]
+    },
+    {
+      "id": "P012",
+      "name": "Casque Gaming Pro",
+      "price": 159.99,
+      "categories": ["Électronique", "Gaming", "Audio"]
+    },
+    {
+      "id": "P013",
+      "name": "Thé vert japonais 100g",
+      "price": 15.50,
+      "categories": ["Alimentaire", "Boissons"]
+    },
+    {
+      "id": "P014",
+      "name": "Webcam HD 1080p",
+      "price": 79.99,
+      "categories": ["Électronique", "Informatique"]
+    },
+    {
+      "id": "P015",
+      "name": "Miel bio 500g",
+      "price": 14.99,
+      "categories": ["Alimentaire"]
+    },
+    {
+      "id": "P016",
+      "name": "Disque dur externe 2TB",
+      "price": 89.00,
+      "categories": ["Électronique", "Stockage"]
+    },
+    {
+      "id": "P017",
+      "name": "Assortiment fromages",
+      "price": 32.50,
+      "categories": ["Alimentaire"]
+    },
+    {
+      "id": "P018",
+      "name": "Enceinte Bluetooth portable",
+      "price": "69.99",
+      "categories": ["Électronique", "Audio"]
+    },
+    {
+      "id": "P019",
+      "name": "Pâtes artisanales 500g",
+      "price": 8.50,
+      "categories": ["Alimentaire"]
+    },
+    {
+      "id": "P020",
+      "name": "Chargeur USB-C rapide",
+      "price": 34.99,
+      "categories": ["Électronique", "Accessoires"]
+    },
+    {
+      "id": "P021",
+      "name": "Confiture fraises maison",
+      "price": 6.90,
+      "categories": ["Alimentaire"]
+    },
+    {
+      "id": "P022",
+      "name": "Câble HDMI 4K 2m",
+      "price": 19.99,
+      "categories": ["Électronique"]
+    },
+    {
+      "id": "P023",
+      "name": "Épices du monde - Coffret",
+      "price": 24.99,
+      "categories": ["Alimentaire"]
+    },
+    {
+      "id": "P024",
+      "name": "Support écran ergonomique",
+      "price": 45.00,
+      "categories": ["Informatique", "Accessoires"]
+    },
+    {
+      "id": "P025",
+      "name": "Biscuits bio assortis",
+      "price": 9.99,
+      "categories": ["Alimentaire", "Gourmandise"]
+    }
+  ]
+}

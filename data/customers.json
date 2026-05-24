@@ -1,0 +1,87 @@
+{
+  "customers": [
+    {
+      "id": "C001",
+      "name": "Sophie Martin",
+      "email": "sophie.martin@email.com",
+      "type": "Premium",
+      "registration_date": "2023-01-15"
+    },
+    {
+      "id": "C002",
+      "name": "Lucas Dubois",
+      "email": "lucas.dubois@email.com",
+      "type": "VIP",
+      "registration_date": "2022-06-20"
+    },
+    {
+      "id": "C003",
+      "name": "Emma Bernard",
+      "email": "emma.bernard@email.com",
+      "type": "Standard",
+      "registration_date": "2024-03-10"
+    },
+    {
+      "id": "C004",
+      "name": "Thomas Petit",
+      "email": "thomas.petit@email.com",
+      "type": "Premium",
+      "registration_date": "2023-08-05"
+    },
+    {
+      "id": "C005",
+      "name": "Léa Roux",
+      "email": "lea.roux@email.com",
+      "type": "Standard",
+      "registration_date": "2024-01-22"
+    },
+    {
+      "id": "C006",
+      "name": "Hugo Lambert",
+      "email": "hugo.lambert@email.com",
+      "type": "VIP",
+      "registration_date": "2021-11-30"
+    },
+    {
+      "id": "C007",
+      "name": "Chloé Moreau",
+      "email": "chloe.moreau@email.com",
+      "type": "premium",
+      "registration_date": "2024-05-18"
+    },
+    {
+      "id": "C008",
+      "name": "Nathan Fournier",
+      "email": "nathan.fournier@email.com",
+      "type": "Standard",
+      "registration_date": "2023-12-08"
+    },
+    {
+      "id": "C009",
+      "name": "Camille Girard",
+      "email": "camille.girard@email.com",
+      "registration_date": "2024-02-14"
+    },
+    {
+      "id": "C010",
+      "name": "Antoine Bonnet",
+      "email": "antoine.bonnet@email.com",
+      "type": "VIP",
+      "registration_date": "2022-09-25"
+    },
+    {
+      "id": "C011",
+      "name": "Inès Dupont",
+      "email": "ines.dupont@email.com",
+      "type": "Standard",
+      "registration_date": "2024-07-03"
+    },
+    {
+      "id": "C012",
+      "name": "Alexandre Laurent",
+      "email": "alexandre.laurent@email.com",
+      "type": "",
+      "registration_date": "2024-04-12"
+    }
+  ]
+}

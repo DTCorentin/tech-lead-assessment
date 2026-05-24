@@ -1,0 +1,15 @@
+{
+  "name": "pomelo-tech-test",
+  "version": "1.0.0",
+  "description": "Hello Pomelo - Technical Test",
+  "scripts": {
+    "q1": "ts-node src/q1_customer_history.ts",
+    "q2": "ts-node src/q2_pricing_engine.ts",
+    "q3": "echo 'See ARCHITECTURE.md'"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
